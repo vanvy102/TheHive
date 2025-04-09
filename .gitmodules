@@ -1,0 +1,9 @@
+#[submodule "ScalliGraph"]
+#	path = ScalliGraph
+#	url = ../scalligraph.git
+#	branch = develop
+
+[submodule "ScalliGraph"]
+	path = ScalliGraph
+	url = https://github.com/TheHive-Project/ScalliGraph.git
+	branch = develop
